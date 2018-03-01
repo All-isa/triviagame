@@ -1,0 +1,21 @@
+body {
+    background: blue;
+    font-family: khand;
+    font-color:white;
+    margin-top:100px;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+.jumbotron-fluid {
+    background: white;
+}
+
+.display-4 {
+    text-align:center;
+    font:red;
+}
+
+.questions {
+    text-align: center;
+}
